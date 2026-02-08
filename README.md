@@ -14,141 +14,169 @@
 
 ## About Me
 
-<table>
-<tr>
-<td width="50%">
+<div align="center">
 
-**Background**
-- Computer Science Graduate from October 6 University
-- GPA: 3.4
-- Currently working as Full-Stack Developer at Intcore
+Full-Stack Developer specializing in building scalable, high-performance web applications. Computer Science graduate from October 6 University with a strong foundation in modern web technologies including **Angular, React, Next.js, Node.js, and .NET**. Passionate about writing clean, maintainable code and delivering exceptional user experiences.
 
-**Specialization**
-- Modern Frontend Frameworks: Angular, React, Next.js
-- Backend Development: Node.js, .NET
-- Database Design: SQL & NoSQL
-- RESTful API Development
+Currently working at **Intcore** | Freelancing on **Mostaql** | ICPC Competitive Programmer
 
-</td>
-<td width="50%">
-
-**Focus Areas**
-- Building scalable, high-performance applications
-- Writing clean, maintainable code
-- Performance optimization
-- User experience enhancement
-- Agile development methodologies
-
-**Continuous Learning**
-- Competitive programming (ICPC)
-- Algorithm optimization
-- Modern web technologies
-- Cloud platforms
-
-</td>
-</tr>
-</table>
-
----
-
-## Professional Experience
-
-### Full-Stack Developer | Intcore
-**May 2025 – Present**
-
-- Architecting and developing scalable web applications using React and Next.js
-- Creating reusable component libraries for improved development efficiency
-- Implementing RESTful API integrations with optimized data handling
-- Enhancing application performance through code optimization and best practices
-- Collaborating with cross-functional teams to deliver high-quality solutions
-
-### Full-Stack Developer Intern | Misk Company
-
-- Developed responsive user interfaces with modern CSS frameworks
-- Implemented backend features and database integrations
-- Participated in agile development processes with Git-based workflows
-- Contributed to code reviews and team knowledge sharing
-
-### Freelance Developer | Mostaql
-**2022 – Present**
-
-- Successfully delivered multiple production-grade applications
-- Maintained 100% client satisfaction through quality deliverables
-- Specialized in performance optimization and scalable architecture
-- Managed project timelines and client communications
-
-### ICPC Competitive Programming | October 6 University
-
-- Intensive algorithmic problem-solving training
-- Mastered advanced data structures and algorithms
-- Focus areas: Dynamic Programming, Graph Theory, BFS/DFS, Minimum Spanning Trees
-- Developed analytical thinking and optimization skills
+</div>
 
 ---
 
 ## Featured Projects
 
+<div align="center">
+
+### 🌟 Production Applications
+
+</div>
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Lighthouse
+<div align="center">
+
+#### [Lighthouse](https://www.thelighthousebymv.com/en)
 **Event Booking Platform**
+
+</div>
 
 A modern event booking platform featuring real-time availability, seamless user experience, and integrated payment processing.
 
-**Tech Stack:** Next.js, React, TypeScript, Tailwind CSS
+**Key Features:**
+- Real-time event availability tracking
+- Secure payment gateway integration
+- Responsive design for all devices
+- Admin dashboard for event management
 
-**[View Live →](https://www.thelighthousebymv.com/en)**
+<div align="center">
 
----
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
-### Dwelleo
-**AI Real Estate Platform**
+**[→ View Live](https://www.thelighthousebymv.com/en)**
 
-Intelligent real estate platform with AI-powered property matching, advanced search filters, and recommendation system.
-
-**Tech Stack:** Next.js, AI/ML Integration, PostgreSQL
-
-**[View Live →](https://www.dwelleo.sa/en)**
-
----
-
-### CyberGuard Academy
-**Cybersecurity E-Learning Platform**
-
-Comprehensive cybersecurity education platform with interactive courses, progress tracking, and certification system.
-
-**Tech Stack:** React, Node.js, MongoDB, Express
+</div>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### Segma Collective
+<div align="center">
+
+#### [Dwelleo](https://www.dwelleo.sa/en)
+**AI Real Estate Platform**
+
+</div>
+
+Intelligent real estate platform powered by AI for smart property matching and personalized recommendations.
+
+**Key Features:**
+- AI-powered property recommendations
+- Advanced search and filtering
+- Interactive property listings
+- Multilingual support (EN/AR)
+
+<div align="center">
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![AI/ML](https://img.shields.io/badge/AI/ML-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**[→ View Live](https://www.dwelleo.sa/en)**
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+#### [Segma Collective](https://www.sagcollctive.com)
 **E-Commerce Platform**
 
-Full-featured e-commerce solution with inventory management, payment gateway integration, and analytics dashboard.
+</div>
 
-**Tech Stack:** React, Next.js, Stripe API, PostgreSQL
+Full-featured e-commerce solution with comprehensive inventory management and payment processing.
 
-**[View Live →](https://www.sagcollctive.com)**
+**Key Features:**
+- Product catalog management
+- Shopping cart & checkout flow
+- Stripe payment integration
+- Order tracking system
 
----
+<div align="center">
 
-### Halqa
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**[→ View Live](https://www.sagcollctive.com)**
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+#### [Halqa](https://halqa4.vercel.app)
 **Online Education Platform**
 
-Educational platform with live streaming capabilities, student management system, and interactive learning tools.
+</div>
 
-**Tech Stack:** Next.js, WebRTC, PostgreSQL, Redis
+Educational platform with live streaming capabilities and comprehensive student management system.
 
-**[View Live →](https://halqa4.vercel.app)**
+**Key Features:**
+- Live video streaming (WebRTC)
+- Course management system
+- Student progress tracking
+- Interactive learning tools
 
----
+<div align="center">
 
-### Additional Projects
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 
-Building multiple client projects focusing on scalability, performance, and modern web standards.
+**[→ View Live](https://halqa4.vercel.app)**
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" valign="top">
+
+<div align="center">
+
+#### CyberGuard Academy
+**Cybersecurity E-Learning Platform**
+
+</div>
+
+<div align="center">
+
+Comprehensive cybersecurity education platform with interactive courses, hands-on labs, and certification programs.
+
+**Key Features:** Interactive video courses • Hands-on cybersecurity labs • Progress tracking & analytics • Certificate generation • Quiz & assessment system
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+</div>
 
 </td>
 </tr>
