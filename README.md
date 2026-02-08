@@ -1,12 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&duration=4000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Youssef+Mahmoud;Full-Stack+Developer;Building+Scalable+Web+Apps;Angular+%7C+React+%7C+Next.js;Node.js+%7C+.NET+Developer" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Youssef+Mahmoud" />
 
-</div>
+<h2 style="color: #E5E7EB; margin: 10px 0;">Full-Stack Developer</h2>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Computer+Science+Graduate;3.4+GPA+%7C+October+6+University;Passionate+About+Clean+Code;Performance+%26+Scalability+Focused)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=18&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Building+Scalable+Web+Apps;Angular+%7C+React+%7C+Next.js;Node.js+%7C+.NET+Developer;Computer+Science+Graduate;Passionate+About+Clean+Code;Performance+%26+Scalability+Focused" />
 
 </div>
 
