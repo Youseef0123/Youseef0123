@@ -211,7 +211,7 @@ Comprehensive cybersecurity education platform with interactive courses, hands-o
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Youseef0123&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=E5E7EB" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Youseef0123&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=8B5CF6" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Youseef0123&theme=radical&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=8B5CF6" />
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youseef0123&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=E5E7EB" />
 <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Youseef0123&theme=react-dark&hide_border=true&bg_color=0D1117&color=8B5CF6&line=6366F1&point=E5E7EB" />
